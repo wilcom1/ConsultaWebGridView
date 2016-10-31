@@ -14,8 +14,9 @@
             <asp:BoundField DataField="NombreDepartamento" HeaderText="NombreDepartamento" SortExpression="NombreDepartamento" />
         </Columns>
     </asp:GridView>
-    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>"
-        ProviderName="<%$ ConnectionStrings:ConnectionString.ProviderName %>" SelectCommand="SELECT * FROM [Departamentos]">
+    <asp:SqlDataSource ID="SqlDataSource1" runat="server" 
+        ConnectionString="<%$ ConnectionStrings:ConnectionString2 %>" 
+        SelectCommand="SELECT * FROM [Departamentos]">
     </asp:SqlDataSource>
     <p>
         Desarrollado por Wilmer Amézquita para el curso de visual basic avanzado.

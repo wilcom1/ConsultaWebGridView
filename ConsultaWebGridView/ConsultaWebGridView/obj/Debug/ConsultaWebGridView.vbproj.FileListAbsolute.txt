@@ -6,3 +6,11 @@ c:\users\wilmermanuel\documents\visual studio 2010\Projects\ConsultaWebGridView\
 c:\users\wilmermanuel\documents\visual studio 2010\Projects\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.dll
 c:\users\wilmermanuel\documents\visual studio 2010\Projects\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.xml
 c:\users\wilmermanuel\documents\visual studio 2010\Projects\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.pdb
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\bin\ConsultaWebGridView.dll
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\bin\ConsultaWebGridView.pdb
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\bin\ConsultaWebGridView.xml
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.Resources.resources
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.vbproj.GenerateResource.Cache
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.dll
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.xml
+C:\Users\WILMERMANUEL\Downloads\ConsultaWebGridView-master\ConsultaWebGridView\ConsultaWebGridView\obj\Debug\ConsultaWebGridView.pdb

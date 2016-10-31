@@ -6,47 +6,7 @@ ConsultaWebGridView
 </name>
 </assembly>
 <members>
-<member name="F:ConsultaWebGridView.Site.HeadContent">
-	<summary>
-Control HeadContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ConsultaWebGridView.Site.NavigationMenu">
-	<summary>
-Control NavigationMenu.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ConsultaWebGridView.Site.MainContent">
-	<summary>
-Control MainContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ConsultaWebGridView._Default.GridView1">
-	<summary>
-Control GridView1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:ConsultaWebGridView._Default.SqlDataSource1">
-	<summary>
-Control SqlDataSource1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="P:ConsultaWebGridView.My.MyWebExtension.Application">
+<member name="P:ConsultaWebGridView.My.MyWebExtension.Application">
 	<summary>
  Devuelve información sobre la aplicación actual.
  </summary>
@@ -79,6 +39,46 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
 	<remarks></remarks>
+</member><member name="F:ConsultaWebGridView._Default.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ConsultaWebGridView._Default.SqlDataSource1">
+	<summary>
+Control SqlDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ConsultaWebGridView.Site.HeadContent">
+	<summary>
+Control HeadContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ConsultaWebGridView.Site.NavigationMenu">
+	<summary>
+Control NavigationMenu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:ConsultaWebGridView.Site.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member>
 </members>
 </doc>
